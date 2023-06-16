@@ -1,4 +1,0 @@
-var dir_2d56467420310b403fdb36323cf7d6f1 =
-[
-    [ "workspace_1.12.0", "dir_f870ab5569c721a8e753672850a753ae.html", "dir_f870ab5569c721a8e753672850a753ae" ]
-];
